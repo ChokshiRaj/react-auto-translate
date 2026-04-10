@@ -1,5 +1,5 @@
 {
-  "name": "react-auto-translate-widget",
+  "name": "react-auto-translate",
   "version": "1.0.0",
   "description": "A plug-and-play translation system that adds a floating language switcher widget to any React website.",
   "main": "./dist/index.cjs",
