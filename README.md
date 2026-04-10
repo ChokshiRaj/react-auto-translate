@@ -1,4 +1,4 @@
-# react-auto-translate-widget 🌐
+# react-auto-translate 🌐
 
 A high-performance React NPM package that adds a floating language switcher widget to any React website and translates the entire page dynamically into multiple Indian languages within ~1 second.
 
