@@ -1,4 +1,4 @@
-# react-auto-translate 🌐
+# globe-translate-widget 🌐
 
 A high-performance React NPM package that adds a floating language switcher widget to any React website and translates the entire page dynamically into multiple Indian languages within ~1 second.
 
@@ -17,7 +17,7 @@ A high-performance React NPM package that adds a floating language switcher widg
 ## 🚀 Installation
 
 ```bash
-npm install react-auto-translate-widget
+npm install globe-translate-widget
 ```
 
 ## 🛠️ Usage
@@ -25,7 +25,7 @@ npm install react-auto-translate-widget
 Simply import the `TranslatorWidget` and place it at the root of your app (e.g., in `App.js`).
 
 ```jsx
-import { TranslatorWidget } from "react-auto-translate-widget";
+import { TranslatorWidget } from "globe-translate-widget";
 
 function App() {
   return (
@@ -56,7 +56,7 @@ function App() {
 | Prop | Type | Default | Description |
 |------|------|---------|-------------|
 | `defaultLang` | `string` | `'en'` | Initial language code (hi, gu, mr, ta, te). |
-| `brandName` | `string` | `'Antigravity'` | Branding text shown at the bottom of the widget. |
+| `brandName` | `string` | `'GlobeTranslate'` | Branding text shown at the bottom of the widget. |
 
 ## 🌏 Supported Languages
 
@@ -83,4 +83,4 @@ The widget uses intelligent batching. For the best experience:
 
 ## 📄 License
 
-MIT © Antigravity
+MIT © Raj Chokshi

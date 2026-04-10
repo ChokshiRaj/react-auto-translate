@@ -12,7 +12,7 @@ const LANGUAGES = [
   { code: 'te', name: 'Telugu', native: 'తెలుగు' }
 ];
 
-export const TranslatorWidget = ({ defaultLang = 'en', brandName = 'Antigravity' }) => {
+export const TranslatorWidget = ({ defaultLang = 'en', brandName = 'GlobeTranslate' }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [currentLang, setCurrentLang] = useState(defaultLang);
   const [isTranslating, setIsTranslating] = useState(false);
