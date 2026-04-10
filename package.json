@@ -25,6 +25,14 @@
   ],
   "author": "Antigravity",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChokshiRaj/react-auto-translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChokshiRaj/react-auto-translate/issues"
+  },
+  "homepage": "https://github.com/ChokshiRaj/react-auto-translate#readme",
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
